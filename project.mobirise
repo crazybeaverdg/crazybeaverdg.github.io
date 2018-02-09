@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.6.3",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.6.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Crazy Beaver 4",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -936,7 +936,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "sponsors",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1406,7 +1406,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "layout",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1862,7 +1862,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "about",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
